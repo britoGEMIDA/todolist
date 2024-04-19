@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 30px;
+  color: #333;
+  background-image: url(".img/bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0.5rem e 2rem;
+  border-radius: 10px;
+  background-color: #efefef;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+input {
+  box-sizing: border-box;
+}
